@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://twitter.com/sbmramit">
-    <img src="https://img.shields.io/twitter/follow/sbmramit?style=for-the-badge&label=%sbmramit&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+    <img src="https://img.shields.io/twitter/follow/sbmramit?style=for-the-badge&label=sbmramit&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
   <a href="https://www.linkedin.com/in/anurag--kumar/">
     <img src="https://img.shields.io/badge/-anurag%20kumar-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
