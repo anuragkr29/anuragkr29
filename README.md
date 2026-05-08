@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anurag Kumar 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer • Full-Stack • Open Source</strong>
+  <strong>Senior Software Engineer • Full-Stack • Open Source</strong>
 </p>
 
 <p align="center">
